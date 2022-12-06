@@ -8,7 +8,7 @@ given in the comments.
 // 1) Create an array named myPizzaOrder that cannot be reassigned and
 // contains the 3 elements: "Pepperoni", 12.99, false mmn 
 
-const myPizzaOrder = ['Pepperoni', 12.99, false];
+const myPizzaOrder = ['Pepperoni', 12.98, false];
 console.log(myPizzaOrder);
 document.write(' Question 1. ' + (myPizzaOrder) + '<br>');
 
